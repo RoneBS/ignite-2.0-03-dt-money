@@ -18,7 +18,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body, input, text-grid-area, button {
-      font: 400 1 rem 'Roboto', sans-serif;
+      font: 400 1rem 'Roboto', sans-serif;
     }
   }
 `
